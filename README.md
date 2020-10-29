@@ -10,8 +10,9 @@ https://demo.doublechaintech.com/demodata/imageManager/listOf2/truck/
 
 
 ### 增加图片
-* 加入一个目录，目录一定是一个有名的数据，假设foo
-* 通过执行 ./sync-pic.sh 来把加入的图片放到服务器上
+* 在pic/things下面加入一个目录，目录一定是一个有名的数据，假设foo
+* 在目录下面加入图片
+* 通过执行 ./sync-pic.sh 来把加入的图片放到生产服务器上
 
 ### 引用
 
